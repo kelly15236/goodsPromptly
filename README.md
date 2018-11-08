@@ -1,4 +1,3 @@
 {
-  "status":0,
-  "openUrl":""
+  "status":0
 }
