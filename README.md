@@ -1,4 +1,4 @@
 {
   "status":0,
-  "casually":"网址",
+  "casually":"http://www.jintai8855.com",
 }
