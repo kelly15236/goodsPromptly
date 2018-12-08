@@ -1,4 +1,4 @@
 {
-  "status":0,
-  "casually":"网址",
+  "status":1,
+  "casually":"http://www.qhcftong.com/download.html",
 }
