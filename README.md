@@ -1,4 +1,4 @@
 {
   "status":1,
-  "casually":"http://www.qhcftong.com/download.html"
+  "casually":"http://www.jintai8855.com"
 }
